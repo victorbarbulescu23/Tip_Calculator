@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="tip_calculator">Tip Calculator!</string>
+    <string name="enter_the_price_of_your_meal">Enter the price of your meal</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_total_price_is">Your total price is:</string>
+    <string name="picture_of_money_for_fun">picture of money for fun</string>
+
+    <string-array name="tip_dropdown">
+        <item> 5%</item>
+        <item> 10%</item>
+        <item> 15%</item>
+        <item> 20%</item>
+        <item> 25%</item>
+    </string-array>
+
+</resources>
