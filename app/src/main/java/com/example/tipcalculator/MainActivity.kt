@@ -10,7 +10,7 @@ import android.widget.TextView
 import java.text.DecimalFormat
 
 class MainActivity : AppCompatActivity() {
-
+    //
     lateinit var tipPercent: Spinner
     lateinit var priceInput: EditText
     lateinit var calculateButton: Button
